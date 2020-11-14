@@ -19,4 +19,4 @@ To run this app, clone this repository and run the following commands:
   
   `yarn install`
   
-  `yarn start
+  `yarn start`
