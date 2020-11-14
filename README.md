@@ -2,7 +2,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eatpiern&repo=Pokélook&theme=material-palenight" />
 </a>
   
-# Pokélook
+# Pokélook 
+  Pokélook is a simple Pokemon lookup tool, maintained by me, and the community.
 
 ## Usage
 
@@ -18,4 +19,4 @@ To run this app, clone this repository and run the following commands:
   
   `yarn install`
   
-  `yarn start`
+  `yarn start
