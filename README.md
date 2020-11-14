@@ -1,11 +1,7 @@
 <a href="https://github.com/eatpiern/pokelook">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eatpiern&repo=Pokélook&theme=material-palenight" />
-
 </a>
   
-  
-
 # Pokélook
 
 ## Usage
